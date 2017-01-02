@@ -1,5 +1,7 @@
 XGBoost
 
+Implementin XGBoost algorithm in R
+
 XGBoost is a member of the boosting ensemble machine learning algorithms family, along with AdaBoost and Gradient Tree Boosting. It's scalable, portable, fast in execution (faster than other implementations of gradient boosting), accurate in prediction and has a great overall performance.
 
 Major characteristics:
